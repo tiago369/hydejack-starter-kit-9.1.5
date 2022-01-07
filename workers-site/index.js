@@ -78,3 +78,5 @@ function handlePrefix(prefix) {
     return new Request(url.toString(), defaultAssetKey)
   }
 }
+
+
