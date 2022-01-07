@@ -93,7 +93,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-<<<<<<< HEAD
+:<<<<<<< HEAD
 accent_image:          /assets/img/orange-green.jpeg
 =======
 accent_image:          /assets/img/abc.jpg
