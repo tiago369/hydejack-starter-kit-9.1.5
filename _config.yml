@@ -54,14 +54,17 @@ menu:
 #    url:               /docs/
 #  - title:             About
 #    url:               /about/
+  - title:             About me
+    url:               /aboutme/
   - title:             Resume
     url:               /resume/
   - title:             Projects
     url:               /projects/
   - title:             Research Lines
     url:               /research-lines/
-
-# Add links to the footer.
+  - title:             Skills
+    url:               /skills/
+    
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
   - title:             LICENSE
