@@ -60,8 +60,8 @@ menu:
     url:               /resume/
   - title:             Projects
     url:               /projects/
-  - title:             Research Lines
-    url:               /research-lines/
+#  - title:             Research Lines
+#    url:               /research-lines/
   - title:             Skills
     url:               /skills/
     
