@@ -8,7 +8,6 @@ hide_description: false
 
 # Academic Experience:
 
-![Senai Cimatec](../assets/img/Designome.jpg "Senai CIMATEC")
 
 ## Undergraduate Technical Course in Mechatronics
 
@@ -21,7 +20,6 @@ hide_description: false
 |The Mechatronics Technician is the professional responsible for designing, installing and operating automated and robotic equipment. Performs programming, parameterization, measurements and testing of automated and robotic equipment.|
 |---|
 
-![Senai Cimatec](../assets/img/Designome.jpg)
 
 ## Undergraduate Electrical Engineering
 
@@ -36,6 +34,7 @@ hide_description: false
 
 # Profissional Experience:
 
+
 ## Competitor in robotics championships
 
 |`2019.2 - 2021.1`|
@@ -46,6 +45,7 @@ hide_description: false
 |Among the activities carried out, one that gained prominence was the [elevator with uv light](http://sesi.fieb.org.br/sesiescola/noticias/covid-19-alunos-de-escolas-da-rede-sesi-desenvolvem-solu%C3%A7%C3%B5es-de-impacto-social/) for disinfection of this environment in the fight against coronavirus.|
 |---|
 
+
 ## Member of IEEE
 
 |`2021.1 - Present`|
@@ -55,6 +55,7 @@ hide_description: false
 |I participate in the student branch of the IEEE as a volunteer and I am currently working, together with my colleagues, on the development of a [robotic hand](https://ieeecimatec.github.io/project-mao_espelhada/) that uses computer vision to detect movements and reproduce them.|
 |---|
 
+
 ## Vice-president of RAS CIMATEC
 
 |`2022.1 - Present`|
@@ -63,6 +64,7 @@ hide_description: false
 |---|
 |Within the IEEE I occupy the role of vice-president, where I have as work to guide projects, manage people and hold events and actions of the chapter.|
 |---|
+
 
 ## Volunter of the Robotics & Autonomous Systems Competence Center
 
