@@ -10,11 +10,11 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.9.0"
 
-# gem "jekyll-theme-hydejack"
-# gem "github-pages", group: :jekyll_plugins
-# gem "jekyll-include-cache", group: :jekyll_plugins
-
 gem "jekyll-theme-hydejack"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+
+#gem "jekyll-theme-hydejack"
 
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
@@ -56,6 +56,3 @@ end
 
 gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
-
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
