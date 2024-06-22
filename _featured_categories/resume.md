@@ -6,74 +6,123 @@ description: >
 hide_description: false
 ---
 
-# Academic Experience:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiago Sant'Anna - Electrical Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Tiago Sant'Anna</h1>
+        <h2>Electrical Engineering</h2>
 
+        <div class="contact-info">
+            <p><strong>Location:</strong> Salvador - BA</p>
+            <p><strong>Email:</strong> tiagobarreto581@gmail.com</p>
+        </div>
 
-## Undergraduate Technical Course in Mechatronics
+        <div class="section">
+            <h2>About Me</h2>
+            <p>Electrical Engineering student at Senai CIMATEC. Works in the Robotics department as a researcher on the softrobots project, where studies on the simulation and control of soft manipulators and also develops mobile soft robots. Has previous experience in robotics from a previous autonomous navigation project and experience as a volunteer. Was vice president of IEEE RAS CIMATEC.</p>
+        </div>
 
-|`2020.2 - Present`|
-|---|
-|*Senai CIMATEC, Salvador-BA*|
-|---|
-|4th semester|
-|---|
-|The Mechatronics Technician is the professional responsible for designing, installing and operating automated and robotic equipment. Performs programming, parameterization, measurements and testing of automated and robotic equipment.|
-|---|
+        <div class="section">
+            <h2>Professional Experiences</h2>
+            <p><strong>Robotics Researcher - Senai CIMATEC (2023-Present)</strong></p>
+            <p>Functions: Develop locomotion strategies for soft robots using tendon drive, pneumatic drive and in an underwater environment. In addition to submitting to an event or journal scientific publication(s) with the results obtained in the proofs of concept.</p>
 
+            <p><strong>Robotics Researcher - Senai CIMATEC (2022-2023)</strong></p>
+            <p>Functions: Study and apply autonomous localization and navigation techniques for electricity generation and transmission facilities in order to improve the efficiency of the maintenance processes involved; improve reliability and reduce economic losses caused by failures; and reduce the occupational risks related to this activity. To this end, it will make use of the various combined sensors (LiDAR, cameras, GPS, etc.) that have been selected to integrate the SUBOT robot prototype and compare them according to their performance in different environments: outdoor and indoor.</p>
+        </div>
 
-## Undergraduate Electrical Engineering
+        <div class="section">
+            <h2>Education</h2>
+            <p><strong>Senai CIMATEC (2021-2026)</strong></p>
+            <p>Graduation in Electrical Engineering (incomplete)</p>
 
-|`2021.1 - Present`|
-|---|
-|*Senai CIMATEC, Salvador-BA*|
-|---|
-|3th semester|
-|---|
-|The electrical engineer designs, designs and guides the installation of electrical circuits for buildings and industries. It is also part of its functions to create and develop equipment and circuits for the electronics industry.|
-|---|
+            <p><strong>Senai CIMATEC</strong></p>
+            <p>Technical education in mechatronics</p>
+        </div>
 
-# Profissional Experience:
+        <div class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>Advanced English</li>
+                <li>C++ programming</li>
+                <li>Python programming</li>
+                <li>Project management</li>
+            </ul>
+        </div>
 
+        <div class="section">
+            <h2>Academic Experiences</h2>
+            <p><strong>Volunteer Robotics Researcher - Senai CIMATEC (2021-2022)</strong></p>
+            <p>Functions: Learn and apply knowledge of Robotic Systems. This includes programming, robot modeling, studying common robotic frameworks, and engaging in research activities.</p>
 
-## Competitor in robotics championships
+            <p><strong>Vice President - IEEE RAS CIMATEC (2021-2021)</strong></p>
+            <p>Functions: Manage the IEEE CIMATEC student robotics branch. This includes overseeing the chapter's four project teams, as well as providing materials and training to support the teams' development.</p>
 
-|`2019.2 - 2021.1`|
-|---|
-|*Sesi Djalma Pessoa, Salvador-BA*|
-|---|
-|I participated in robotics championships during school. These championships required several technical knowledge, as well as leadership and teamwork skills.|
-|Among the activities carried out, one that gained prominence was the [elevator with uv light](http://sesi.fieb.org.br/sesiescola/noticias/covid-19-alunos-de-escolas-da-rede-sesi-desenvolvem-solu%C3%A7%C3%B5es-de-impacto-social/) for disinfection of this environment in the fight against coronavirus.|
-|---|
+            <p><strong>Trainee - IEEE RAS CIMATEC (2021-2021)</strong></p>
+            <p>Functions: Develop a project for a mirrored robotic hand based on computer vision to assist individuals with physical disabilities. During this phase, I also received the Outstanding Trainee Award.</p>
 
+            <p><strong>Trainee - CIMATEC Jr (2021-2021)</strong></p>
+            <p>Functions: Worked on photovoltaic homologation projects and product development with a focus on electronics. Additionally, received training in low-voltage electrical installation projects.</p>
+        </div>
 
-## Member of IEEE
+        <div class="section">
+            <h2>Research Experience</h2>
+            <ul>
+                <li>FPGA</li>
+                <li>Robotics development</li>
+                <li>Autonomous navigation</li>
+                <li>Soft robots</li>
+            </ul>
+        </div>
 
-|`2021.1 - Present`|
-|---|
-|*Senai CIMATEC, Salvador-BA*|
-|---|
-|I participate in the student branch of the IEEE as a volunteer and I am currently working, together with my colleagues, on the development of a [robotic hand](https://ieeecimatec.github.io/project-mao_espelhada/) that uses computer vision to detect movements and reproduce them.|
-|---|
+        <div class="section">
+            <h2>Publications</h2>
+            <ul>
+                <li>Seamless Integration of ROS2 Topics and FPGA via UART: Developing an Easy Integration Layer</li>
+                <li>Comparative analysis in real environment of trajectory controllers on ROS2</li>
+                <li>Ethics Applied to Development in Robotics</li>
+                <li>A method to stop differential models of falling over</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
 
-
-## Vice-president of RAS CIMATEC
-
-|`2022.1 - Present`|
-|---|
-|*Senai CIMATEC, Salvador-BA*|
-|---|
-|Within the IEEE I occupy the role of vice-president, where I have as work to guide projects, manage people and hold events and actions of the chapter.|
-|---|
-
-
-## Volunter of the Robotics & Autonomous Systems Competence Center
-
-|`2021.2 - Present`|
-|---|
-|*Senai CIMATEC, Salvador-BA*|
-|---|
-|I work within the Laboratory of [RASC](https://braziliansinrobotics.com/) studying and performing projects within the robotics and automation area. With the realization of these projects I had to master C++, Python, ROS, Linux, electronicand kinematics. These projects can be accessed by clicking [here](htttps://localhost:4000/projects/)|
-|---|
 
 [blog]: /
 [portfolio]: https://hydejack.com/examples/
