@@ -8,14 +8,9 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.9.0"
-gem 'pathutil', '~> 0.16.2'
+gem "jekyll", "~> 4.1"
 
-gem "jekyll-theme-hydejack"
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
-
-#gem "jekyll-theme-hydejack"
+gem "jekyll-theme-hydejack", "~> 9.1"
 
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
@@ -57,3 +52,4 @@ end
 
 gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
+
