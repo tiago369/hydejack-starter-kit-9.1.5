@@ -2,23 +2,20 @@
 layout: page
 title: Projects
 ---
+# Projects
+This page contains all the projects that I have made in recent years.
 
-#AAAAAAAAAAA
+# Robotics & Autonomous Systems Competence Center
 
-<div class="row aos-init aos-animate" data-aos="fade-up">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-ind">Industrial</li>
-              <li data-filter=".filter-card">Academic</li>
-              <!--li data-filter=".filter-web">Personal</li-->
-              <!--li data-filter=".filter-app">Personal</li-->
-            </ul>
-          </div>
-        </div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+    <img src="../assets/img/blog/dobot/dobot.jpg" alt="Robot Arm" style="width:200px;height:auto;">
+    <img src="../assets/img/blog/turtlebot/turtle.png" alt="Robot Base" style="width:200px;height:auto;">
+    <img src="../assets/img/blog/desfioslab/ros.png" alt="ROS Logo" style="width:200px;height:auto;">
+</div>
 
-[![Image name](image.png)](http://www.host.com/link.html) [![Image name](image.png)](http://www.host.com/link.html) [![Image name](image.png)](http://www.host.com/link.html)
+# IEEE
 
-AAA
-AAA
-AAAA
+<div style="display: flex; justify-content: center; align-items: center; gap: 100px;">
+    <img src="../assets/img/blog/mirrodhand/cad.png" alt="Robot Hand" style="width:200px;height:auto;">
+    <img src="../assets/img/blog/rasweek/onshape.png" alt="IEEE Logo" style="width:200px;height:auto;">
+</div>
