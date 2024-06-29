@@ -6,40 +6,7 @@ description: >
 hide_description: false
 ---
 
-<!-- <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tiago Sant'Anna - Electrical Engineer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .contact-info {
-            margin-bottom: 20px;
-        }
-        .contact-info p {
-            margin: 5px 0;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-    </style>
-</head> -->
+
 <body>
     <div class="container">
         <h1>Tiago Sant'Anna</h1>
@@ -119,7 +86,7 @@ hide_description: false
         </div>
     </div>
 </body>
-</html>
+
 
 
 [blog]: /
