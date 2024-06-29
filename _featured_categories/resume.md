@@ -3,10 +3,56 @@ layout: page
 title: Resume
 description: >
   This page consist in a resume about my carer and achievements in the current years. I was born in January of 2003 in the city of Salvador in the state of Bahia in Brazil.
-hide_description: false
+hide_description: true
 ---
 
-
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        h1 {
+            text-align: left;
+            animation: fadeIn 2s;
+        }
+        h2 {
+            text-align: center;
+            animation: fadeIn 2s;
+        }
+        .contact-info p, .section p, .section ul {
+            font-size: 1.2em;
+            line-height: 1.6em;
+            transition: color 0.3s;
+        }
+        .section ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .section ul li {
+            background: #e2e2e2;
+            margin: 0.5em 0;
+            padding: 0.5em;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        .section ul li:hover {
+            background: #d1d1d1;
+        }
+        .section p:hover, .contact-info p:hover {
+            color: #DAA520;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+    </style>
 <body>
     <div class="container">
         <h1>Tiago Sant'Anna</h1>
@@ -40,7 +86,7 @@ hide_description: false
             <p>Technical education in mechatronics</p>
         </div>
 
-        <div class="section">
+        <!-- <div class="section">
             <h2>Skills</h2>
             <ul>
                 <li>Advanced English</li>
@@ -48,7 +94,7 @@ hide_description: false
                 <li>Python programming</li>
                 <li>Project management</li>
             </ul>
-        </div>
+        </div> -->
 
         <div class="section">
             <h2>Academic Experiences</h2>
@@ -86,37 +132,3 @@ hide_description: false
         </div>
     </div>
 </body>
-
-
-
-[blog]: /
-[portfolio]: https://hydejack.com/examples/
-[resume]: https://hydejack.com/resume/
-[download]: https://hydejack.com/download/
-[welcome]: https://hydejack.com/
-[forms]: https://hydejack.com/forms-by-example/
-
-[features]: #features
-[news]: #build-an-audience
-[syntax]: syntax-highlighting
-[latex]: #beautiful-math
-[dark]: https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/
-[search]: https://hydejack.com/#_search-input
-[grid]: https://hydejack.com/blog/hydejack/
-
-[lic]: LICENSE.md
-[pro]: licenses/PRO.md
-[docs]: docs/README.md
-[ofln]: docs/advanced.md#enabling-offline-support
-[math]: docs/writing.md#adding-math
-
-[kit]: https://github.com/hydecorp/hydejack-starter-kit/releases
-[src]: https://github.com/hydecorp/hydejack
-[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
-[buy]: https://gum.co/nuOluY
-
-[gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2Fdocs%2F
-[rouge]: http://rouge.jneen.net
-[katex]: https://khan.github.io/KaTeX/
-[mathjax]: https://www.mathjax.org/
-[tinyletter]: https://tinyletter.com/
