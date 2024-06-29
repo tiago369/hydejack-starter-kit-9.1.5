@@ -2,46 +2,86 @@
 layout: page
 title: Skills
 ---
-# Skills and habilities
 
-## Programming languages
-### C++
-<img src="../assets/img/skills/03.jpg" alt="c++" width="500"/>
+# 🚀 Skills & Expertise
 
-[Exemple 1](https://github.com/tiago369/Desafios-de-preparacao-rasc)
+## 🤖 Autonomous Systems
+<div class="animate__animated animate__fadeInLeft">
+<ul>
+  <li><strong>Design and Implementation</strong>: Expertise in designing and implementing autonomous systems, including mobile robots for various applications such as inspection and surveillance.</li>
+  <li><strong>Navigation and Control</strong>: Skilled in developing navigation algorithms and control systems for autonomous robots, ensuring efficient and accurate movement in complex environments.</li>
+</ul>
+</div>
 
-### Python
-<img src="../assets/img/skills/python.jpg" alt="python" width="500"/>
+## 🌐 Sensor Integration
+<div class="animate__animated animate__fadeInRight">
+<ul>
+  <li><strong>Multi-Sensor Fusion</strong>: Proficient in integrating multiple sensors (e.g., LiDAR, stereo camera, GPS-GNSS, IMU) to enhance robot perception and decision-making.</li>
+  <li><strong>Data Acquisition and Processing</strong>: Experience in acquiring and processing sensor data to extract meaningful information for real-time applications.</li>
+</ul>
+</div>
 
-[Exemple 1](https://github.com/tiago369/Desafios-de-preparacao-rasc)
+## 🔧 Embedded Systems
+<div class="animate__animated animate__fadeInLeft">
+<ul>
+  <li><strong>Microcontroller Programming</strong>: Extensive experience with microcontrollers (e.g., MSP430, ESP32, Arduino) for real-time control and automation tasks.</li>
+  <li><strong>Hardware Interfacing</strong>: Skilled in interfacing various hardware components, such as motors, sensors, and switches, with microcontrollers to create responsive robotic systems.</li>
+</ul>
+</div>
 
-## OpenCv
-<img src="../assets/img/skills/opencv.png" alt="opencv" width="500"/>
+## 💻 Software Development
+<div class="animate__animated animate__fadeInRight">
+<ul>
+  <li><strong>Programming Languages</strong>: Proficient in C, C++, Python, and other relevant programming languages for developing robust and efficient robotic software.</li>
+  <li><strong>Software Tools</strong>: Experienced with software tools and platforms such as ROS (Robot Operating System), Gazebo, Unity, MoveIt, SOFA, and RViz for simulation, analysis, and system design.</li>
+</ul>
+</div>
 
-[Exemple 1](https://github.com/tiago369/Desafios-de-preparacao-rasc)
-[Exemple 2](https://ieeecimatec.github.io/project-mao_espelhada/)
+## ⚙️ Mechanical Design
+<div class="animate__animated animate__fadeInLeft">
+<ul>
+  <li><strong>CAD Modeling</strong>: Competent in using CAD software to design mechanical components and assemblies for robotic systems.</li>
+  <li><strong>Prototyping and Testing</strong>: Hands-on experience in prototyping, testing, and iterating mechanical designs to achieve optimal performance and reliability.</li>
+</ul>
+</div>
 
-## ROS
-<img src="../assets/img/skills/ros-850x510.png" alt="ros" width="500"/>
+## 🎛️ Control Systems
+<div class="animate__animated animate__fadeInRight">
+<ul>
+  <li><strong>PID Control</strong>: Skilled in designing and tuning PID controllers for precise and stable control of robotic actuators.</li>
+  <li><strong>State Machine Design</strong>: Expertise in implementing state machines for managing complex robot behaviors and transitions.</li>
+</ul>
+</div>
 
-[Exemple 1](https://github.com/tiago369/Desafios-de-preparacao-rasc)
+## 📡 Wireless Communication
+<div class="animate__animated animate__fadeInLeft">
+<ul>
+  <li><strong>Networking Protocols</strong>: Knowledgeable in various wireless communication protocols (e.g., Wi-Fi, Ethernet) for remote control and monitoring of robots.</li>
+  <li><strong>IoT Integration</strong>: Experience in integrating IoT devices and platforms to enhance the connectivity and functionality of robotic systems.</li>
+</ul>
+</div>
 
-[Exemple 2](https://github.com/tiago369/dobot-ros)
+## 📋 Project Management
+<div class="animate__animated animate__fadeInRight">
+<ul>
+  <li><strong>Agile Methodologies</strong>: Familiar with Agile project management methodologies for efficient and flexible development cycles.</li>
+  <li><strong>Team Collaboration</strong>: Strong teamwork and collaboration skills, with experience in leading and working with multidisciplinary teams to achieve project goals.</li>
+</ul>
+</div>
 
-## 3D modeling/CAD
-### Onshape
-<img src="../assets/img/skills/Onshape.png" alt="onshape" width="500"/>
+---
 
-[Example 1](https://cad.onshape.com/documents/6248e75573a361b0fc9d796e/w/6c5744214ee6ded61df2d5aa/e/6296b6cb4a8a85d00fd805e2)
+Thanks for visiting my portfolio! Let's build the future of robotics together.
 
-[Example 2](https://ieeecimatec.github.io/project-mao_espelhada/)
-
-### Autodesk Inventor
-<img src="../assets/img/skills/autodesk-inventor-500x500.jpg" alt="inventor" width="500"/>
-
-## People managment
-
-## Others
-
-
-[![Image name](image.png)](http://www.host.com/link.html) [![Image name](image.png)](http://www.host.com/link.html) [![Image name](image.png)](http://www.host.com/link.html)
+<!-- Add the following script in your HTML to load Animate.css for animations and apply custom CSS for hover effects -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+<style>
+ul li:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease-in-out;
+}
+div:hover {
+  transform: scale(1.02);
+  transition: transform 0.3s ease-in-out;
+}
+</style>
